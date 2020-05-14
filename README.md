@@ -56,6 +56,4 @@ It has 3 sections:
 
 #### Note: Pipelines Folder is not essential to run the Web App.
 
-### Acknowledgements:
-1. [Udacity](www.udacity.com) for this Data Science Nanodegree Program.
-2. [Figure-Eight](www.figure-eight.com) for the relevant dataset.
+
