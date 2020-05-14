@@ -54,6 +54,6 @@ It has 3 sections:
 
 3. Go to http://0.0.0.0:3001/
 
-#### Note: Pipelines Folder is not essential to run the Web App.
+#### Note: JupyterNotebooks Folder is not essential to run the Web App.
 
 
